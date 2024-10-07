@@ -1,0 +1,24 @@
+body{
+    box-sizing: 0;
+    background-color: rgb(255, 255, 214);
+    align-items: center;
+    justify-items: center;
+    align-self: center;
+}
+.order, th{
+    width: 600px;
+    border: solid 3px;
+}
+.list, th, td{
+    border: solid 2px;
+}
+
+.Gradesheet{
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+}
